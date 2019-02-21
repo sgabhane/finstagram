@@ -83,8 +83,6 @@ DEPENDENCIES
   sinatra-contrib
   sqlite3
   tux
-  pg
-  prygem
 
 BUNDLED WITH
    2.0.1
