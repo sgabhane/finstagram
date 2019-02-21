@@ -11,7 +11,6 @@ gem 'sinatra-activerecord'
 gem 'puma'
 gem 'tux'
 gem 'pry'
-gem 'pg'
 
 group :development, :test do
   gem 'pry'
