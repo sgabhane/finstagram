@@ -83,6 +83,7 @@ DEPENDENCIES
   sinatra-contrib
   sqlite3
   tux
+  py
 
 BUNDLED WITH
    2.0.1
